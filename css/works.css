@@ -1,0 +1,35 @@
+@import url(blog.css);
+
+
+.works {
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.works__slogan {
+font-size: 44px;
+font-style: normal;
+font-weight: 900; 
+}
+.featured__items {
+}
+.featured__item {
+}
+.item-featured {
+}
+.item-featured__img {
+}
+.item-featured__inner {
+}
+.inner-item-featured {
+}
+.inner-item-featured__title {
+}
+.inner-item-featured__tabl {
+}
+.inner-item-featured__year {
+}
+.inner-item-featured__name {
+}
+.inner-item-featured__text {
+}

@@ -1,0 +1,58 @@
+@import url(blog.css);
+
+.dashboard {
+    padding-top: 100px;
+    padding-bottom: 60;
+}
+
+.dashboard__title {
+}
+
+.datas-dashboard {
+    padding-top: 30px;
+    padding-bottom: 23px;
+    display: flex;
+    align-items: center;
+    gap: 27px;
+}
+.datas-dashboard__data {
+    background-color: #FF7C7C;
+    padding: 6px 15px;
+    border-radius: 20px; 
+
+    color: #FFF;
+font-family: Heebo;
+font-size: 18px;
+font-style: normal;
+font-weight: 900; 
+}
+
+.dashboard__text {
+    padding-bottom: 46px;
+}
+.dashboard__images{
+    position: relative;
+    width: 100%;
+}
+.dashboard__images img{
+    max-width: 100%;
+    width: 100%;
+    padding-bottom: 30px;
+}
+.dashboard__subtitle {
+    padding-bottom: 30px;
+}
+
+.dashboard__heading_one {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 60px; /* 200% */
+}
+.dashboard__heading_two {
+    padding-bottom: 25px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 60px; /* 250% */
+}
